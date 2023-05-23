@@ -1,2 +1,0 @@
-# js-practice
-# js-practice
